@@ -1,0 +1,173 @@
+.navbar-brand{
+    font-family: 'Open Sans', sans-serif;
+    color: white !important;
+    font-size: 40px;
+    padding-left: 4.9cm;
+    padding-top: 0.6cm;
+    padding-bottom: 0.5px;
+
+}
+.coloring{
+    background-color: #3B5998 !important;
+    
+}
+#btn1{
+    background-color: #537ecf;
+    color: white; 
+    border-color: #365899;
+    text-align: center;
+    width: 52px;
+    height: 24px;
+    font-size: 12px;
+    border-style: 2px solid #ccd0d5;
+    font-weight: bold;
+    text-decoration: none;
+    text-shadow: none;
+    border-radius: 2px;
+
+}
+.labeling{
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+.box1{
+    border: 1px solid;
+    margin: 0;
+    width: 142px;
+    font-size: 12px;
+}
+table tr td{
+    padding: 0 0 0 14px;
+}
+.box2{
+    border: 1px solid;
+    margin: 0;
+    width: 142px;
+    font-size: 12px;
+}
+.logo{
+    width: 212px;
+    height: 64px;
+    background-position: 0 -245px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+#outer-margin{
+    margin: 0 auto;
+    width: 1037px;
+    padding-top: 13px;
+
+}
+#image1{
+    background-image: url(./IMG.png);
+    width: 537px;
+    height: 195px;
+}
+#main-text{
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    word-spacing: -1px;
+}
+body{
+
+    background:linear-gradient(to bottom, #ffffff,#D9DDEB ); 
+    height: 150vh;
+}
+#Gender{
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 18px;
+    padding: 0 10px 0 3px;
+    float: right;
+    margin-right: -240px;
+    margin-top: 50px;
+}
+#name1{
+    border-radius: 5px; 
+    padding: 8px 10px; 
+    border: 1px solid #ccd0d5; 
+    width: 185px;
+}
+#surname1{
+    border-radius: 5px; 
+    padding: 8px 10px; 
+    border: 1px solid #ccd0d5; 
+    width: 185px;
+}
+#email1{
+    float: right; 
+    margin-right: 209px; 
+    margin-top: -131px; 
+    border-radius: 5px; 
+    padding: 8px 10px; 
+    width: 377px; 
+    border: 1px solid #ccd0d5;
+}
+#pass2{
+    float: right; 
+    margin-right: 209px; 
+    margin-top: -104px; 
+    border-radius: 5px; 
+    padding: 8px 10px; 
+    width: 377px; 
+    border: 1px solid #ccd0d5;
+}
+#birthday{
+    color: #90949c; 
+    font-size: 20px; 
+    font-weight: bold; 
+    float: right; 
+    margin-right: 505px;
+     margin-top: -47px;
+}
+#birthday-form{
+    float: right; 
+    margin-right: 393px; 
+    margin-top: -14px;
+}
+#quick-message{
+    color: #1d2129; 
+    font-size: 19px; 
+    float: right; 
+    margin-right: 440px; 
+    margin-top: -229px;
+}
+#forgot-account{
+    color: #9cb4d8; 
+    font-size: 12px; 
+    font-family: Helvetica, Arial, sans-serif;
+}
+#gender{
+    color: #90949c;
+    font-size: 19px;
+    font-weight: bold;
+    float: right;
+    margin-right: -65px;
+    margin-top: 19px;
+}
+#policy-message{
+    color: #777;
+    font-size: 11px;
+    width: 316px;
+    float: right;
+    margin-top: 81px;
+    margin-right: -314px;
+}
+#sign-up{
+    color: white;
+    background-color: #6BA757;
+    border-radius: 5px;
+    padding-left: 46px;
+    text-align: center;
+    padding-right: 46px;
+    float: right;
+    margin-top: 144px;
+    margin-right: -155px;
+}
